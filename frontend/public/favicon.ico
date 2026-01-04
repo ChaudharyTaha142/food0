@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#FF6B35"/>
+  <rect x="8" y="8" width="48" height="48" rx="10" fill="#FFFFFF"/>
+  
+  <g transform="translate(32, 34)">
+    <circle r="12" fill="none" stroke="#FF6B35" stroke-width="4"/>
+    
+    <!-- Simple chef hat -->
+    <g transform="translate(0, -13)">
+      <ellipse cx="0" cy="1.5" rx="6.5" ry="1.5" fill="#FF6B35"/>
+      <path d="M -5,0 Q -5.5,-3 -3.5,-4.5 Q -2,-5.5 0,-5.5 Q 2,-5.5 3.5,-4.5 Q 5.5,-3 5,0 Z" fill="#FF6B35"/>
+      <rect x="-5.5" y="0" width="11" height="1" rx="0.3" fill="#FF6B35"/>
+    </g>
+  </g>
+</svg>

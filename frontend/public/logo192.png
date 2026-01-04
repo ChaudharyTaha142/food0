@@ -1,0 +1,19 @@
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" fill="#FF6B35"/>
+  <rect x="21" y="21" width="150" height="150" rx="30" fill="#FFFFFF"/>
+  
+  <g transform="translate(96, 105)">
+    <circle r="37" fill="none" stroke="#FF6B35" stroke-width="13"/>
+    
+    <!-- Chef hat -->
+    <g transform="translate(0, -41)">
+      <ellipse cx="0" cy="4" rx="20" ry="4.5" fill="#FF6B35"/>
+      <path d="M -15,0 Q -17,-9 -11,-13 Q -7,-17 0,-17 Q 7,-17 11,-13 Q 17,-9 15,0 Z" fill="#FF6B35"/>
+      <rect x="-17" y="0" width="34" height="3" rx="1" fill="#FF6B35"/>
+    </g>
+  </g>
+  
+  <text x="96" y="168" font-family="Arial" font-size="21" font-weight="700" text-anchor="middle" fill="#FF6B35" letter-spacing="-1">
+    food<tspan font-weight="900" font-size="24" dy="-2">O</tspan>
+  </text>
+</svg>
