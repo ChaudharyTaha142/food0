@@ -102,6 +102,7 @@ All powered by a robust **Node.js backend** with **real-time communication** via
 <div align="center">
 
 ### Frontend Technologies
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -109,6 +110,7 @@ All powered by a robust **Node.js backend** with **real-time communication** via
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend Technologies
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -116,6 +118,7 @@ All powered by a robust **Node.js backend** with **real-time communication** via
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ### Payment & Maps
+
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
@@ -297,15 +300,19 @@ chmod +x restart-backend.sh
 <div align="center">
 
 ### 🏠 Customer App
+
 *Browse restaurants, add items to cart, and track orders in real-time*
 
 ### 🏪 Restaurant Dashboard
+
 *Manage your menu, orders, and view analytics*
 
 ### 🚗 Ride Service
+
 *Book rides with live tracking and fare estimates*
 
 ### 👨‍💼 Admin Panel
+
 *Comprehensive control over users, shops, and platform operations*
 
 </div>
@@ -357,17 +364,23 @@ We welcome contributions! 🎉 Here's how you can help:
 
 1. 🍴 **Fork** the repository
 2. 🌿 Create your feature branch
+
    ```bash
    git checkout -b feature/AmazingFeature
    ```
+
 3. 💾 **Commit** your changes
+
    ```bash
    git commit -m 'Add some AmazingFeature'
    ```
+
 4. 📤 **Push** to the branch
+
    ```bash
    git push origin feature/AmazingFeature
    ```
+
 5. 🔃 Open a **Pull Request**
 
 ---
@@ -395,7 +408,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-### ⭐ Star this repo if you found it helpful!
+### ⭐ Star this repo if you found it helpful
 
 **Made with 💻 and ☕ by Muhammad Taha Azhar**
 
