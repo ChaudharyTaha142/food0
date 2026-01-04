@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/issues/ChaudharyTaha142/food0?style=flat-square" alt="Issues"/>
 </p>
 
-### 🚀 A comprehensive full-stack food delivery application with integrated ride-hailing services
+## 🚀 A comprehensive full-stack food delivery application with integrated ride-hailing services
 
 Built with cutting-edge **MERN Stack** technology, featuring real-time tracking, secure payments, and powerful admin dashboards.
 
@@ -283,11 +283,13 @@ npm run build
 ### ⚡ Quick Restart Scripts
 
 **Windows:**
+
 ```bash
 ./restart-backend.bat
 ```
 
 **Linux/Mac:**
+
 ```bash
 chmod +x restart-backend.sh
 ./restart-backend.sh
